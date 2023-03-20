@@ -3,12 +3,12 @@ function preload(){
 
 }
 function setup() {
-    createCanvas(windowWidth,windowHeight);
+    createCanvas(600,600);
 
 }
 
 function draw() {
-    background("black");
+    background("skyblue");
     //códigos que serão executados ao longo de todo o jogo
 
 
